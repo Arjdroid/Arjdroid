@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Arjdroid
+<h1> 👋 Hi, I’m @Arjdroid </h1>
+
 - 👀 I’m currently interested in computers and video games
 - 🌱 I’m currently learning school stuff
 - 💞️ I’m looking to collaborate on nothing as of this moment
