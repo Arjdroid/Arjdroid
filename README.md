@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning school stuff and start many projects I don't finish...
 - 💞️ I’m looking to collaborate on nothing as of this moment
 - 📫 Don't reach me
+- I have a blog website [arjdroid.github.io](arjdroid.github.io) which I update sometimes
 
 <!---
 Arjdroid/Arjdroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
