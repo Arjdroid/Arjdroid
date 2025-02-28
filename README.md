@@ -1,9 +1,9 @@
-<h1> 👋 Hi, I’m @Arjdroid </h1>
+<h1> 👋 Hi, I’m Arjun </h1>
 
-- 👀 I’m currently interested in networks, cloud infrastructure, and linux / server-side applications
-- 💞️ I’m open to collaborations
-- 📫 Don't hesitate to reach me
-- 💻 I have a blog: [arjdroid.me](https://arjdroid.me)
+- Currently interested in networks, cloud infrastructure, and linux / server-side applications
+- Open to collaborations
+- Don't hesitate to reach me
+- I have a blog: [arjdroid.me](https://arjdroid.me)
 
 <!---
 Arjdroid/Arjdroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
